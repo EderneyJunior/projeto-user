@@ -1,2 +1,2 @@
 # projeto-user
-Este projeto utiliza uma api de usuarios criadar por mim em um front uatilizando vue.
+Este projeto utiliza uma api de controle de usuarios criadar por mim em um front uatilizando vue.
